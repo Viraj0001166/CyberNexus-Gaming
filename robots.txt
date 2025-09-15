@@ -1,0 +1,7 @@
+# Robots.txt for CyberNexus Gaming
+# Live domain configuration
+
+User-agent: *
+Allow: /
+
+Sitemap: https://taliyotechnologeis.com/sitemap.xml
