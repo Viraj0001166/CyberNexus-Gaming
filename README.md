@@ -9,7 +9,8 @@
 > **"The future of gaming is not just about playing—it's about existing in a digital universe."**
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x600/0a0a0a/00ffff?text=CyberNexus+Gaming+Dashboard" alt="CyberNexus Dashboard Preview" width="90%">
+  <img src="./screenshots/dashboard-preview.png" alt="CyberNexus Gaming Dashboard Preview" width="90%">
+  <p><em>CyberNexus Gaming Dashboard - Your Portal to the Digital Realm</em></p>
 </div>
 
 ## 🌟 Table of Contents
